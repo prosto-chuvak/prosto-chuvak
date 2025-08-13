@@ -8,7 +8,7 @@
 ---
 
 ### 💻 Tech Stack:
-- **Languages:** C, C++, Bash
+- **Languages:** C, C++, Bash, Lua, Vim-Script
 - **Tools:** Git, Linux, GCC, Make, GDB
 - **Interests:** Open source, system programming, CLI tools, performance optimization
 
