@@ -1,4 +1,4 @@
-### Hi, I'm [Ctas]! 👋
+### Hi, I'm Ctas! 👋
 
 🎓 Computer Science student  
 📍 Learning to write code that works (and sometimes even looks good)  
