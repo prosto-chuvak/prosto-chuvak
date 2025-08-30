@@ -8,8 +8,8 @@
 ---
 
 ### 💻 Tech Stack:
-- **Languages:** C, C++, Bash, Lua, Vim-Script
-- **Tools:** Git, Linux, GCC, Make, GDB
+- **Languages:** C, C++, Bash, Lua, Vim-Script, Rust
+- **Tools:** Git, Linux, GCC, Make, GDB, Cargo, Rustc, Neovim
 - **Interests:** Open source, system programming, CLI tools, performance optimization
 
 ---
