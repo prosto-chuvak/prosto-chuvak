@@ -18,6 +18,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prosto-chuvak&show_icons=true&theme=radical)
 
 📊 Top Languages:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosto-chuvak&layout=compact&theme=radical)
 
 ---
