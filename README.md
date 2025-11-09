@@ -2,7 +2,7 @@
 
 🎓 Computer Science student  
 📍 Learning to write code that works (and sometimes even looks good)  
-🚀 Deep into **C/C++**, **Bash**, and low-level systems  
+🚀 Deep into **Rust**, **Bash**, and low-level systems  
 🌱 Exploring open source and aiming to make my first contributions
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 ### 🌱 What I'm Working On:
-- Building small utilities and projects in C/C++
+- Building small utilities and projects in Rust
 - Automating tasks with Bash scripts
 - Studying open source codebases to learn how things work
 - Participating in open source events like Hacktoberfest
