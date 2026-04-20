@@ -1,23 +1,23 @@
-### Hi, I'm Ctas! 👋
+### Hi, I'm Ctas! 
 
-🎓 Computer Science student  
-📍 Learning to write code that works (and sometimes even looks good)  
-🚀 Deep into **Rust**, **Bash**, and low-level systems  
-🌱 Exploring open source and aiming to make my first contributions
+- Computer Science student  
+- Learning to write code that works (and sometimes even looks good)  
+- Deep into **Rust**, **Bash**, and low-level systems  
+- Exploring open source and aiming to make my first contributions
 
 ---
 
-### 💻 Tech Stack:
+### Tech Stack:
 - **Languages:** C, C++, Bash, Lua, Vim-Script, Rust
 - **Tools:** Git, Linux, GCC, Make, GDB, Cargo, Rustc, Neovim
 - **Interests:** Open source, system programming, CLI tools, performance optimization
 
 ---
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prosto-chuvak&show_icons=true&theme=radical)
 
-📊 Top Languages:
+### Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosto-chuvak&layout=compact&theme=radical)
 
@@ -31,4 +31,4 @@
 
 ---
 
-> "The code I write today will be read by someone tomorrow. Hopefully, it won't be me — with regret." 😉
+> "The code I write today will be read by someone tomorrow. Hopefully, it won't be me — with regret."
